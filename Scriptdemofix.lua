@@ -69,4 +69,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Loader/refs/
 AddButton(Tab1o, {
      Name = "QuanTumHub",
     Callback = function()
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
